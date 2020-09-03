@@ -1,0 +1,1 @@
+Git workflow test from the Virtual Machine.
